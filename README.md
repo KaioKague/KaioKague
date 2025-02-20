@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+   <a style="text-align: right; padding: 0px;" href="https://www.youtube.com/@kaiokague9236/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://br.linkedin.com/in/kaio-kague-2ab4171a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+</div>
 
-<!--
-**KaioKague/KaioKague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante de Análise e Desenvolvimento de Software na Fatec de Presidente Prudente
 
-Here are some ideas to get you started:
+ Sou Kaio Almeida Kague atualmente sou estudante de ADS pela Fatec de Presidente Prudente, tenho um grande interesse em computadores
+e programação. Tenho formação em cursos de Redes pela Microlins, e Programação em Arduino juntamente a manutenção de computadores e 
+celulares pela Microcamp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Não possuo experiência formal dentro da área.
+
+## Habilidades
+
+✅ Aplicações WEB (HTML, CSS, JavaScript, React)
+
+✅ Programação de circuitos Arduino
+
+✅Manutenção e configuração de redes
